@@ -184,3 +184,10 @@ li,p,div,h1,h2,h3,h4,h6,ul{
     border-radius: 100%;
     animation: effect 2s infinite 75ms;
 }
+
+.test{
+  margin-top:100px;
+}
+.test2{
+  magin-top:200px;
+}
